@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
