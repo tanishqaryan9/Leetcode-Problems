@@ -7,14 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
