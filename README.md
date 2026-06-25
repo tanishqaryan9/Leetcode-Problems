@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -29,5 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
