@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
 | [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
@@ -72,8 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
