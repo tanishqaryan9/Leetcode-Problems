@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
