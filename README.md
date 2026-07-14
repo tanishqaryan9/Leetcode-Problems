@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0049-group-anagrams) |
 ## Enumeration
 |  |
 | ------- |
