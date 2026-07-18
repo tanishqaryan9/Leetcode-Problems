@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0682-baseball-game](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/0067-add-binary) |
+| [1250-check-if-it-is-a-good-array](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1250-check-if-it-is-a-good-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/tanishqaryan9/Leetcode-Problems/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
